@@ -1,0 +1,10 @@
+mir2-mapeditor-master.zip
+*.log
+*.tmp
+**/bin/
+**/obj/
+**/Build/
+Build/
+Client_CH/
+Client_EN/
+备份/
